@@ -1,7 +1,5 @@
 # FirstGitHub
-
-와아아아아아
+test1
 
 # github 어렵다
-
-fjdjdpwp
+test2
