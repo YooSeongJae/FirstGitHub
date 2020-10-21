@@ -1,5 +1,5 @@
 # FirstGitHub
 test1
 
-# github ¾î·Æ´Ù
+# github
 test2
